@@ -23,12 +23,12 @@ The project also explores a supplementary **Vision Language Model (VLM) fine-tun
 
 **ResNet-18 3D CNN**
 
-![ResNet-18 Architecture Diagram](Images/resnet18.png)
+![ResNet-18 Architecture Diagram](Images/ResNet_18_architecture.png)
 
 
 **Residual Block**
 
-![One residual block unit](Images/residual_block.png)
+![One residual block unit](Images/RessidualBlock.png)
 
 
 ---
