@@ -1,0 +1,54 @@
+# ── Datasets ──────────────────────────────────────────────────────────────────
+data2/
+raw_data/
+violence-detection-dataset/
+dataset_yolo/
+
+# ── Model weights ─────────────────────────────────────────────────────────────
+*.pth
+*.pt
+*.onnx
+*.ckpt
+*.bin
+*.safetensors
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# ── Virtual environments ───────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Jupyter Notebooks ─────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Gradio / HuggingFace cache ────────────────────────────────────────────────
+.gradio/
+gradio_cached_examples/
+flagged/
+*.flag
+
+# ── OS / Editor ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+
+# ── Logs & temp files ─────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
